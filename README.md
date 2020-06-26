@@ -16,3 +16,5 @@
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 # leocraft
 The leocraft repository is a place to develop a game called Leocraft.
+## CONTRIBUTING
+<https://github.com/JavascriptLearner815/leocraft/blob/master/CONTRIBUTING.md>
