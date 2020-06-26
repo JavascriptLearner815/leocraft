@@ -1,4 +1,4 @@
-Leocraft, a game intended to have crafting and terrain, but only with things like html.
+    Leocraft, a game intended to have crafting and terrain, but only with things like html.
     Copyright (C) 2020  Dean Summer
 
     This program is free software; you can redistribute it and/or modify
